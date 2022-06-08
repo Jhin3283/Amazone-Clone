@@ -1,6 +1,6 @@
 # eSHOP
 
-쇼핑몰 제작 Web
+쇼핑몰 제작
 
  <!-- # Getting Started with Create React App
 
