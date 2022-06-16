@@ -14,7 +14,7 @@
 
 .product__rating {
   display: flex;
-  /* background-color: #111; */
+  background-color: #111;
 }
 
 .product > img {
