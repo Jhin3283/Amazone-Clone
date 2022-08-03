@@ -11,7 +11,6 @@ function Home() {
           alt=""
           className="home__image"
         />
-
         <div className="home__row">
           <Product
             id="12321341"
@@ -28,7 +27,6 @@ function Home() {
             image="https://images-na.ssl-images-amazon.com/images/I/81D8pNFmWzL._SL1500_.jpg"
           />
         </div>
-
         <div className="home__row">
           <Product
             id="4903850"
@@ -52,7 +50,6 @@ function Home() {
             image="https://images-na.ssl-images-amazon.com/images/I/816ctt5WV5L._AC_SX385_.jpg"
           />
         </div>
-
         <div className="home__row">
           <Product
             id="90829332"
