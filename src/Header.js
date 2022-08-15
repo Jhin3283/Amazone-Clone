@@ -4,8 +4,10 @@ import ShoppingBasketIcon from "@material-ui/icons/ShoppingBasket";
 import StorefrontIcon from "@material-ui/icons/Storefront";
 import SearchIcon from "@material-ui/icons/Search";
 import { Link } from "react-router-dom";
+import { useStateValue } from "./StateProvider";
 
 function Header() {
+  const [{ basket }, dispatch] = useStateValue();
   return (
     <div className="header">
       <Link to="/" style={{ textDecoration: "none" }}>
