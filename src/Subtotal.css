@@ -13,6 +13,7 @@
 .subtotal__gift {
   display: flex;
   align-items: center;
+  border: 0px;
 }
 
 .subtotal__gift > input {
